@@ -17,8 +17,8 @@ shards:
     version: 0.12.1
 
   helm:
-    git: https://github.com/cnf-testsuite/helm.git
-    version: 1.0.1
+    git: https://github.com/barmull/helm
+    version: 1.0.2+git.commit.e0454ffdb6d5753302081bd319cfdd71597cb5e5
 
   kernel_introspection:
     git: https://github.com/cnf-testsuite/kernel_introspection.git
